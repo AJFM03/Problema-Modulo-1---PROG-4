@@ -1,4 +1,3 @@
-
 DROP TABLE IF EXISTS misiones_monstruos;
 DROP TABLE IF EXISTS misiones_heroes;
 DROP TABLE IF EXISTS monstruos;
